@@ -1,5 +1,7 @@
 # **CMD Commands Reference**
+<img src="https://i.ytimg.com/vi/H3z4AV_kqxc/maxresdefault.jpg" alt="Icon" width="700"/>
 
+CMD (Command Prompt) is a command-line interpreter available in Windows operating systems. It allows users to interact with the operating system by typing textual commands, offering powerful tools for file manipulation, system management, and troubleshooting tasks
 ## 🖥️ **Basic Commands**
 - `help`  
   *Displays a list of available commands.*
