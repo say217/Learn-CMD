@@ -1,6 +1,6 @@
-# **Learn CMD**
+# **CMD Commands Reference**
 
-## **Basic Commands**
+## ![icon](https://www.pinclipart.com/picdir/middle/66-669951_arrow-bullet-icon-clipart-computer-icons-arrow-bullet.png) **Basic Commands**
 - `help`  
   *Displays a list of available commands.*
 - `cls`  
@@ -10,7 +10,7 @@
 
 ---
 
-## **File and Directory Commands**
+## ![icon](https://www.pinclipart.com/picdir/middle/66-669951_arrow-bullet-icon-clipart-computer-icons-arrow-bullet.png) **File and Directory Commands**
 - `dir`  
   *Lists files and subdirectories in a directory.*
 - `cd [path]`  
@@ -34,7 +34,7 @@
 
 ---
 
-## **System Information**
+## ![icon](https://www.pinclipart.com/picdir/middle/66-669951_arrow-bullet-icon-clipart-computer-icons-arrow-bullet.png) **System Information**
 - `systeminfo`  
   *Displays detailed system information.*
 - `hostname`  
@@ -50,7 +50,7 @@
 
 ---
 
-## **Networking Commands**
+## ![icon](https://www.pinclipart.com/picdir/middle/66-669951_arrow-bullet-icon-clipart-computer-icons-arrow-bullet.png) **Networking Commands**
 - `ipconfig`  
   *Displays IP configuration.*
 - `ping [address]`  
@@ -70,7 +70,7 @@
 
 ---
 
-## **User and Permissions**
+## ![icon](https://www.pinclipart.com/picdir/middle/66-669951_arrow-bullet-icon-clipart-computer-icons-arrow-bullet.png) **User and Permissions**
 - `net user [username]`  
   *Views user information.*
 - `net user [username] [password] /add`  
@@ -84,7 +84,7 @@
 
 ---
 
-## **Disk and Partition Commands**
+## ![icon](https://www.pinclipart.com/picdir/middle/66-669951_arrow-bullet-icon-clipart-computer-icons-arrow-bullet.png) **Disk and Partition Commands**
 - `diskpart`  
   *Launches the disk partitioning utility.*
 - `chkdsk [drive]:`  
@@ -98,7 +98,7 @@
 
 ---
 
-## **System Operations**
+## ![icon](https://www.pinclipart.com/picdir/middle/66-669951_arrow-bullet-icon-clipart-computer-icons-arrow-bullet.png) **System Operations**
 - `shutdown /s /t [time]`  
   *Shuts down the computer.*
 - `shutdown /r /t [time]`  
@@ -112,7 +112,7 @@
 
 ---
 
-## **Advanced Commands**
+## ![icon](https://www.pinclipart.com/picdir/middle/66-669951_arrow-bullet-icon-clipart-computer-icons-arrow-bullet.png) **Advanced Commands**
 - `regedit`  
   *Opens the registry editor.*
 - `gpupdate`  
@@ -126,7 +126,7 @@
 
 ---
 
-## **Security and Troubleshooting**
+## ![icon](https://www.pinclipart.com/picdir/middle/66-669951_arrow-bullet-icon-clipart-computer-icons-arrow-bullet.png) **Security and Troubleshooting**
 - `cipher`  
   *Encrypts or decrypts files.*
 - `fc [file1] [file2]`  
@@ -140,7 +140,7 @@
 
 ---
 
-## **Programming and Development**
+## ![icon](https://www.pinclipart.com/picdir/middle/66-669951_arrow-bullet-icon-clipart-computer-icons-arrow-bullet.png) **Programming and Development**
 - `echo [text]`  
   *Displays text in the command prompt.*
 - `type [file]`  
@@ -152,7 +152,7 @@
 
 ---
 
-## **Miscellaneous**
+## ![icon](https://www.pinclipart.com/picdir/middle/66-669951_arrow-bullet-icon-clipart-computer-icons-arrow-bullet.png) **Miscellaneous**
 - `time`  
   *Displays or sets the system time.*
 - `date`  
@@ -165,3 +165,4 @@
   *Pauses a batch file execution.*
 
 ---
+
